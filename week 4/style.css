@@ -33,7 +33,7 @@ body {
 }
 
 .sidebar a {
-    color: #ffcc00;
+    color: #bbff00;
     text-decoration: none;
 }
 
@@ -60,4 +60,8 @@ h2 {
 
 ul {
     list-style-type: square;
+}
+ul  {
+    background-color: #f0f8ff;
+    ;
 }
